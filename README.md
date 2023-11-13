@@ -12,7 +12,7 @@
  - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/soulaima-kahla/) <a href="https://www.linkedin.com/in/soulaima-kahla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulchin-taghizade-38b817a6" height="30" width="40" /></a>
 
 
-**Languages and Tools:** 
+<!--**Languages and Tools:** 
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
