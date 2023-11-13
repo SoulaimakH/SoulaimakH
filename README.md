@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/SoulaimakH/SoulaimakH/blob/main/hi.gif?raw=true" width="500" height="320" />
  My name is Soulaima Kahla and I am a software engineer. 
 
-- 🔭 I’m currently researching at the intersection of machine learning  cloud architecture and databases.
+<!-- 🔭 I’m currently researching at the intersection of machine learning  cloud architecture and databases.-->
 - 💬 I’m interested in Competitive programming and software engineering.
 
 
