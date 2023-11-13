@@ -2,14 +2,14 @@
 
  
  My name is Soulaima Kahla and I am a software engineer. 
-
+  <img align="right" alt="GIF" src="https://github.com/SoulaimakH/SoulaimakH/blob/main/hi.gif?raw=true" width="500" height="320" />
 - 🔭 I’m currently researching at the intersection of machine learning  cloud architecture and databases.
 - 💬 I’m interested in Competitive programming and software engineering.
-  <img align="right" alt="GIF" src="https://github.com/SoulaimakH/SoulaimakH/blob/main/hi.gif?raw=true" width="500" height="320" />
 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulchin-taghizade-38b817a6" height="30" width="40" /></a>
  - 👨‍💻 My projects are available at https://github.com/SoulaimakH?tab=repositories
  - 💼 any freelance work?
- - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/soulaima-kahla/) <a href="https://www.linkedin.com/in/soulaima-kahla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulchin-taghizade-38b817a6" height="30" width="40" /></a>
+ - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/soulaima-kahla/) <a href="https://www.linkedin.com/in/soulaima-kahla/" target="blank"><img align="center" 
 
 
 <!--**Languages and Tools:** 
