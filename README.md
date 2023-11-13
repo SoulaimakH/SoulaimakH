@@ -6,7 +6,7 @@
 - 💬 I’m interested in Competitive programming and software engineering.
 
 
- - 👨‍💻 My projects are available at https://github.com/SoulaimakH?tab=repositories
+ - 👨‍💻 My projects are available at [**github**](https://github.com/SoulaimakH?tab=repositories)
  - 💼 any freelance work?
  - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/soulaima-kahla/) <a href="https://www.linkedin.com/in/soulaima-kahla/" target="blank"><img align="center">
 
